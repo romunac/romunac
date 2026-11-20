@@ -1,58 +1,33 @@
 # Lucas Vinhal Ferreira
 
-Computer Engineering student at UniCEUB interested in software development, embedded systems, Linux infrastructure, networking and computer hardware.
+**Computer Engineering student at UniCEUB | Estudante de Engenharia da Computação no UniCEUB**
 
-## About Me
+I build academic and personal projects across software, Linux infrastructure, networking, and embedded systems.
+Desenvolvo projetos acadêmicos e pessoais nas áreas de software, infraestrutura Linux, redes e sistemas embarcados.
 
-I build academic and personal projects to strengthen my skills in programming, systems, networking and embedded computing. I am currently focused on building a stronger foundation in software engineering and infrastructure while continuing to work with hardware and microcontrollers.
+## Featured projects | Projetos em destaque
 
-## Technologies
+- **[Servitor](https://github.com/romunac/Servitor)** — Linux telemetry agent and ingestion API foundation for infrastructure monitoring.  
+  Base de um agente Linux de telemetria e API de ingestão para monitoramento de infraestrutura.
+- **[Moody Blues](https://github.com/romunac/Blues)** — academic concept exploring emotion tracking with Flutter, Python, and facial-expression analysis.  
+  Conceito acadêmico que explora acompanhamento emocional com Flutter, Python e análise de expressões faciais.
+- **[PortfolioHUB](https://github.com/romunac/portifolioHUB)** — personal portfolio and collection of academic projects.  
+  Portfólio pessoal e coleção de projetos acadêmicos.
+- **[Portfolio V2 (PT-BR)](https://github.com/romunac/portifolioV2_PT-BR)** — Portuguese-language version of my portfolio.  
+  Versão em português do meu portfólio.
 
-**Languages**
+## Technologies | Tecnologias
 
-C · C++ · Python
+**Programming | Programação:** C · C++ · Python · Java · Rust · HTML  
+**Embedded systems | Sistemas embarcados:** Arduino · ESP32 · microcontrollers · sensors  
+**Systems | Sistemas:** Linux · Ubuntu Server · networking · SSH · UFW · Fail2Ban  
+**Tools | Ferramentas:** Git · GitHub · VS Code · Flutter · Firebase
 
-**Embedded & Hardware**
+## Currently learning | Estudando atualmente
 
-Arduino · ESP32 · Microcontrollers · Sensors · Electronics
+Data structures and algorithms · Linux administration · computer networks · embedded systems · cloud infrastructure  
+Estruturas de dados e algoritmos · administração Linux · redes de computadores · sistemas embarcados · infraestrutura em nuvem
 
-**Systems & Infrastructure**
-
-Linux · Ubuntu Server · Computer Networks · SSH · UFW · Fail2Ban
-
-**Development Tools**
-
-Git · GitHub · VS Code · Flutter · Firebase
-
-## Featured Projects
-
-### Ubuntu Server — Infrastructure & Security
-
-Linux server environment focused on networking, secure remote access, firewalling, availability and system monitoring.
-
-[View repository →](https://github.com/romunac/ubuntu-server-monitoramento)
-
-### Moody Blues
-
-Conceptual emotion-monitoring application combining Flutter, Python, DeepFace and Firebase.
-
-[View repository →](https://github.com/romunac/Blues)
-
-### PortfolioHUB
-
-Personal portfolio and collection of academic Computer Engineering projects.
-
-[View repository →](https://github.com/romunac/portifolioHUB)
-
-## Currently Learning
-
-- Data structures and algorithms
-- Linux administration
-- Computer networks
-- Embedded systems
-- Cloud infrastructure
-- Software engineering practices
-
-## Contact
+## Contact | Contato
 
 [LinkedIn](https://www.linkedin.com/in/lucas-vinhal-24334a2b3) · [GitHub](https://github.com/romunac)
