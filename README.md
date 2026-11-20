@@ -11,8 +11,10 @@ Desenvolvo projetos acadêmicos e pessoais nas áreas de software, infraestrutur
   Base de um agente Linux de telemetria e API de ingestão para monitoramento de infraestrutura.
 - **[Moody Blues](https://github.com/romunac/Blues)** — academic concept exploring emotion tracking with Flutter, Python, and facial-expression analysis.  
   Conceito acadêmico que explora acompanhamento emocional com Flutter, Python e análise de expressões faciais.
-- **[PortfolioHUB](https://github.com/romunac/portifolioHUB)** — personal portfolio and collection of academic projects.  
-  Portfólio pessoal e coleção de projetos acadêmicos.
+- **[Main portfolio | Portfólio principal](https://github.com/romunac/portifolioV2_PT-BR)** — my current portfolio website, presented in Brazilian Portuguese.  
+  Meu portfólio atual, apresentado em português brasileiro.
+- [PortfolioHUB (earlier version)](https://github.com/romunac/portifolioHUB) — previous portfolio iteration.  
+  Versão anterior do portfólio.
 - **[Portfolio V2 (PT-BR)](https://github.com/romunac/portifolioV2_PT-BR)** — Portuguese-language version of my portfolio.  
   Versão em português do meu portfólio.
 
